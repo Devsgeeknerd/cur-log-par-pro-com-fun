@@ -3,6 +3,8 @@
 
 ***Conteúdo do Curso:***
 
+## Desenvolvimento da Capacidade Analítica para Programação
+
 Antes de iniciarmos o desenvolvimento de software, é fundamental aprimorar nossa capacidade analítica para a resolução de problemas.
 
 Isso permitirá resolver questões complexas com muito menos esforço.
@@ -15,7 +17,7 @@ Portanto, transmitir o fluxo de processamento de dados que nosso cérebro realiz
 
 Dessa forma, é essencial desenvolver um raciocínio analítico apurado e, consequentemente, uma lógica sólida em linguagens de programação.
 
-## Conhecimentos a Serem Adquiridos
+### Conhecimentos a Serem Adquiridos
 
 * **Organização do Pensamento:** Aprender a estrutura melhora o fluxo de ideias pro meio do desenvolvimento da capacidade analítica.
 
