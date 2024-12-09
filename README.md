@@ -29,6 +29,16 @@ Dessa forma, é essencial desenvolver um raciocínio analítico apurado e, conse
 
 * **Estrutura de Decisão e Repetição:** Desenvolver algoritmos que tomam decisões e executam tarefas repetidamente com base em informações externas.
 
+* **Uso do Scratch:** Criar algoritmos utilizando a ferramenta de gamificação chamada Scratch.
+
+* **Portugol:** Desenvolver algoritmos em um nível mais avançado com a linguagem Portugol.
+
+* **Introdução ao C:** Ter os primeiros contatos com uma linguagem de programação real, o C.
+
+* **Entrada e Saída de Dados:** Compreender os conceitos de entrada e saída de dados no C, aplicáveis a diversas outras linguagens.
+
+* **Conceitos Matemáticos:** Entender algoritmos mais complexos, como o Bubble Sort, para ordenação de dados.
+
 <!-- Informações -->
 ## &#8505; Informações
 
